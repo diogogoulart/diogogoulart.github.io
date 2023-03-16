@@ -8,7 +8,7 @@
     https://www.linkedin.com/in/isabelmcdias/ ; 
     https://www.linkedin.com/in/daila-alexandre/
   
- #### Binary Classification - Mathematical Computation - Grade 18/20 
+ #### Mathematical Computation - Grade 18/20 
   Description: Creating a program that uses the simpson's rule to 5 specific functions and further analyses of the results.
   Metadata: The folder contains the report (in Portuguese) and the code in matlab.
   Collaborators: 
