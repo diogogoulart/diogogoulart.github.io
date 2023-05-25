@@ -24,7 +24,7 @@
     Lucas Ferreira
   
   
-#### SQL - Storage and Retrival of Data - Grade 19/20 
+#### SQL - Storage and Retrieval of Data - Grade 19/20 
   Description: Creating a program that uses the simpson's rule to 5 specific functions and further analyses of the results. <br />
   
   Metadata: The folder contains the script of the project, the report, SQL file that creates the database and SQL file that runs queries. <br />
