@@ -33,7 +33,7 @@
     https://www.linkedin.com/in/isabelmcdias/
 <br />
 <br />  
-#### Unsupervised Learning/Segmentation - Data Mining - Grade 19/20
+#### Unsupervised Learning/ Segmentation - Data Mining - Grade 19/20
   Description: Segmentation of the clients of the clients of an insurance company, according to 3 perspectives (value brought to the company, type of insurance prefered and socialdemographic data); <br />
   Creation of a marketing strategy appropriate for each cluster found. <br />
   
@@ -43,7 +43,7 @@
     https://www.linkedin.com/in/daila-alexandre/
 <br />
 <br />  
- #### Internship_report 
+ #### Internship Report 
   Description: Report written regarding the performance of the intern, writen by the intership's supervisor. <br />
   Metadata: Pdf file
 <br />
