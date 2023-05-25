@@ -56,7 +56,7 @@
     https://www.linkedin.com/in/gil-simas-b27122210/
 
 
-#### Toaster - Geometric Modulation and Design II - Grade 18/20 
+#### Solid Works Innovative Toaster - Geometric Modulation and Design II - Grade 18/20 
   Description: Individual creation of a toaster that drops the toasts onto the plates. <br />
   
   Metadata: The folder contains the parts and assembly of the parts, built in SolidWorks, technical drawings of some parts and of the final assembly, and the descriptive memory. <br />
