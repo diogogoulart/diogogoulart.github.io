@@ -10,7 +10,7 @@
     https://www.linkedin.com/in/daila-alexandre/
   
   
-#### Image Classification through Neural Networks - Deep Learning - Grade 18/20
+#### Image Classification Through Neural Networks - Deep Learning - Grade 18/20
   Description: Image Classification of 10 different animals, using a low quality dataset, through Neural Networks. <br />
   The code is divided into: <br />
   explore.ipynb - data exploration; <br />
