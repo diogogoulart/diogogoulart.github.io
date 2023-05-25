@@ -10,9 +10,12 @@
   
 #### Image Classification through Neural Networks - Deep Learning - Grade 18/20
   Description: Image Classification of 10 different animals, using a low quality dataset, through Neural Networks. <br />
-  The code is divided into: explore.ipynb - data exploration; preprocess.ipynb - necessary preprocessing of the data; <br />
-  model_handcrafted.ipynb: sequential model construction starting from 0; model_hyper_search.ipynb: hyperparameter search and comparison with the hand crafted model; <br />
-  transfer.ipynb: transfer learning and comparison with the best model <br />
+  The code is divided into: <br />
+  explore.ipynb - data exploration; <br />
+  preprocess.ipynb - necessary preprocessing of the data; <br />
+  model_handcrafted.ipynb - sequential model construction starting from 0; <br />
+  model_hyper_search.ipynb - hyperparameter search and comparison with the hand crafted model; <br />
+  transfer.ipynb - transfer learning and comparison with the best model <br />
   Metadata: The folder contains the script of the project and the code in Python (5 jupyter notebooks created in Google Collab). <br />
   Collaborators: <br />
     Lucas Ferreira
