@@ -8,8 +8,8 @@
   Collaborators: <br />
     https://www.linkedin.com/in/isabelmcdias/ ; 
     https://www.linkedin.com/in/daila-alexandre/
-  
-  
+<br />
+<br />  
 #### Image Classification Through Neural Networks - Deep Learning - Grade 18/20
   Description: Image Classification of 10 different animals, using a low quality dataset, through Neural Networks. <br />
   The code is divided into: <br />
@@ -22,8 +22,8 @@
   Metadata: The folder contains the script of the project and the code in Python (5 jupyter notebooks created in Google Collab). <br />
   Collaborators: <br />
     Lucas Ferreira
-  
-  
+<br />
+<br />  
 #### SQL - Storage and Retrieval of Data - Grade 19/20 
   Description: Creating a program that uses the simpson's rule to 5 specific functions and further analyses of the results. <br />
   
@@ -31,8 +31,8 @@
   Collaborators:  <br />
     https://www.linkedin.com/in/daila-alexandre/ ; 
     https://www.linkedin.com/in/isabelmcdias/
-  
-  
+<br />
+<br />  
 #### Unsupervised Learning/Segmentation - Data Mining - Grade 19/20
   Description: Segmentation of the clients of the clients of an insurance company, according to 3 perspectives (value brought to the company, type of insurance prefered and socialdemographic data); <br />
   Creation of a marketing strategy appropriate for each cluster found. <br />
@@ -41,13 +41,13 @@
   Collaborators: <br />
     www.linkedin.com/in/alex-santander-535aa477 ; 
     https://www.linkedin.com/in/daila-alexandre/
- 
- 
+<br />
+<br />  
  #### Internship_report 
   Description: Report written regarding the performance of the intern, writen by the intership's supervisor. <br />
   Metadata: Pdf file
-
-
+<br />
+<br />  
  #### Mathematical Computation - Grade 18/20 
   Description: Creating a program that uses the simpson's rule to 5 specific functions and further analyses of the results. <br />
   
