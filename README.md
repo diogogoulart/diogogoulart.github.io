@@ -1,6 +1,6 @@
 ### diogogoulart.github.io
-
-
+<br />
+<br />  
 #### Binary Classification - Machine Learning - Grade 19/20
   Description: Creation of a model to predict whether people were or not sick with a new disease. <br />
   
@@ -54,8 +54,8 @@
   Metadata: The folder contains the report (in Portuguese) and the code in matlab. <br />
   Collaborators: <br />
     https://www.linkedin.com/in/gil-simas-b27122210/
-
-
+<br />
+<br />  
 #### Solid Works Innovative Toaster - Geometric Modulation and Design II - Grade 18/20 
   Description: Individual creation of a toaster that drops the toasts onto the plates. <br />
   
