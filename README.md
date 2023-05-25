@@ -8,6 +8,15 @@
     https://www.linkedin.com/in/isabelmcdias/ ; 
     https://www.linkedin.com/in/daila-alexandre/
   
+#### Image Classification through Neural Networks - Deep Learning - Grade 18/20
+  Description: Image Classification of 10 different animals, using a low quality dataset, through Neural Networks. <br />
+  The code is divided into: explore.ipynb - data exploration; preprocess.ipynb - necessary preprocessing of the data; <br />
+  model_handcrafted.ipynb: sequential model construction starting from 0; model_hyper_search.ipynb: hyperparameter search and comparison with the hand crafted model; <br />
+  transfer.ipynb: transfer learning and comparison with the best model <br />
+  Metadata: The folder contains the script of the project and the code in Python (5 jupyter notebooks created in Google Collab). <br />
+  Collaborators: <br />
+    Lucas Ferreira
+  
  #### Mathematical Computation - Grade 18/20 
   Description: Creating a program that uses the simpson's rule to 5 specific functions and further analyses of the results. <br />
   Metadata: The folder contains the report (in Portuguese) and the code in matlab. <br />
