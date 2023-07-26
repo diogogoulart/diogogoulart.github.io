@@ -82,11 +82,11 @@
 #### Solid Works Innovative Toaster - Geometric Modulation and Design II - Grade 18/20 
   Description: Individual creation of a toaster that drops the toasts onto the plates. <br />
   
-  Metadata: The folder contains the parts and assembly of the parts, built in SolidWorks, technical drawings of some parts and of the final assembly, and the descriptive memory. <br />    
+  Metadata: The folder contains the parts and assembly of the parts, built-in SolidWorks, technical drawings of some parts and of the final assembly, and descriptive memory. <br />    
 <br />
 <br />
 #### Internship Report 
-  Description: Report written regarding the performance of the intern, writen by the intership's supervisor. <br />
+  Description: Report written regarding the intern's performance, written by the internship's supervisor. <br />
   Metadata: Pdf file
 
   
