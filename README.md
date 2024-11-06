@@ -10,7 +10,7 @@
     https://www.linkedin.com/in/daila-alexandre/
 <br />
 <br />  
-#### Deep Learning - Image Classification Through Neural Networks - Grade 18/20
+#### Deep Learning - Multi-Label Image Classification Through Neural Networks - Grade 18/20
   Description: Image Classification of 10 different animals, using a low quality dataset, through Neural Networks. <br />
   The code is divided into: <br />
   explore.ipynb - data exploration; <br />
@@ -51,7 +51,7 @@
     https://www.linkedin.com/in/lu%C3%ADs-fernandes-731412147/
 <br />
 <br /> 
-#### SQL - Storage and Retrieval of Data - Grade 19/20 
+#### SQL - Creation of a Database - Grade 19/20 
   Description: Creating a program that uses the simpson's rule to 5 specific functions and further analyses of the results. <br />
   
   Metadata: The folder contains the script of the project, the report, SQL file that creates the database and SQL file that runs queries. <br />
@@ -60,7 +60,7 @@
     https://www.linkedin.com/in/isabelmcdias/
 <br />
 <br />  
-#### Segmentation / Unsupervised Learning - Data Mining - Grade 19/20
+#### Segmentation / Clustering - Data Mining - Grade 19/20
   Description: Segmentation of the clients of the clients of an insurance company, according to 3 perspectives (value brought to the company, type of insurance prefered and socialdemographic data); <br />
   Creation of a marketing strategy appropriate for each cluster found. <br />
   
@@ -70,7 +70,7 @@
     https://www.linkedin.com/in/daila-alexandre/
 <br />
 <br />  
-#### Text Mining 
+#### Text Mining - NLP
   Description: Using Text Mining  to predict through airbnb reviews, descriptions of the hosts and properties if the properties will be unlisted or not. <br />
   
   Metadata: The folder contains 2 notebooks - The first part contains the exploration, and the second part contains the processing, modeling, and evaluation. <br />
