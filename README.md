@@ -86,10 +86,12 @@
 <br />
 <br />
 #### Internship Report 
-  Description: Report written regarding the intern's performance, written by the internship's supervisor. <br />
+  Description: Report written regarding the intern's performance in their first internship, written by the internship's supervisor. <br />
   Metadata: Pdf file
 
-  
+#### Thesis
+  Description: A systematic Literature Review of Transformers in Time Series Forecasting <br />
+  Metadata: Pdf file  
  
   
   
