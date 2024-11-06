@@ -70,7 +70,7 @@
     https://www.linkedin.com/in/daila-alexandre/
 <br />
 <br />  
-#### Text Mining - NLP
+#### NLP - Classification
   Description: Using Text Mining  to predict through airbnb reviews, descriptions of the hosts and properties if the properties will be unlisted or not. <br />
   
   Metadata: The folder contains 2 notebooks - The first part contains the exploration, and the second part contains the processing, modeling, and evaluation. <br />
