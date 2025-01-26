@@ -1,6 +1,10 @@
 ### diogogoulart.github.io
 <br />
 
+Script means
+
+
+
 #### Binary Classification - Machine Learning - Grade 19/20
   Description: Creation of a model to predict whether people were or not sick with a new disease. <br />
   
