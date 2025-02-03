@@ -1,6 +1,18 @@
 ### diogogoulart.github.io
 <br />
 
+#### Sales_Dashboard - Excel
+  This project focuses on analysing sales performance by exploring key metrics across various dimensions. The scope includes data cleaning and generating visual insights through dashboards, pivot tables, and statistical charts.
+<br />
+<br /> 
+
+#### Power BI
+  This folder has 2 projects in the power BI folder:
+  **Jobs** – This project has 3 pages; One dedicated to job exploration, one is an analysis of what are the factors to various job happiness metrics, and the third one does the same analysis but using filters.
+	**Flights** – This project focuses on developing a simple dashboard to analyze flight trends using a dataset related to air travel. The dashboard includes a bar chart leveraging a date hierarchy, allowing users to drill down and up.
+<br />
+<br /> 
+
 #### Summarization
   This folder contains two projects on **text summarization**, showcasing both extractive and abstractive methodologies. The **extractive** summarization project focuses on models like TextRank, LexRank, and LSA to identify and extract the most significant sentences from documents. The **abstractive** summarization project leverages advanced transformer models like T5, Pegasus, and BART to generate concise and coherent summaries by rephrasing and synthesizing information. The scope of these projects includes evaluating model performance through metrics such as ROUGE, METEOR, and BERTScore, along with readability assessments. 
 <br />
